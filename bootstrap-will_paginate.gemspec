@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["nick@ndfine.com", "ikebowen@gmail.com"]
   s.homepage    = "https://github.com/yrgoldteeth/bootstrap-will_paginate"
   s.summary     = %q{Format will_paginate html to match Twitter Bootstrap styling.}
-  s.description = %q{Hooks into will_paginate to format the html to match Twitter Bootstrap styling.  Extension code was originally written by Isaac Bowen (https://gist.github.com/1182136).}
+  s.description = %q{This fork reintroduces support for Bootstrap 2 and fixes a bug with the `#previous_or_next_page` button. Hooks into will_paginate to format the html to match Twitter Bootstrap styling. Extension code was originally written by Isaac Bowen (https://gist.github.com/1182136). Credit for the original gem goes to Nicholas Fine and Isaac Bowen (https://github.com/yrgoldteeth/bootstrap-will_paginate).}
 
   s.rubyforge_project = "bootstrap-will_paginate"
 

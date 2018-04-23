@@ -1,5 +1,7 @@
 ## [Will Paginate][wp] link renderer styles for [Twitter Bootstrap 3/4][bs]
 
+This fork reintroduces support for Bootstrap 2 and fixes a bug with the `#previous_or_next_page` button. Hooks into will_paginate to format the html to match Twitter Bootstrap styling. Extension code was originally written by Isaac Bowen (https://gist.github.com/1182136). Credit for the original gem goes to Nicholas Fine and Isaac Bowen (https://github.com/yrgoldteeth/bootstrap-will_paginate).
+
 Rails Engine that extends [will_paginate][wp] stylings to match the pagination styling conventions
 in Twitter's [Bootstrap][bs] toolkit.
 
